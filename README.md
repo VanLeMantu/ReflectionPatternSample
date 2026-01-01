@@ -123,7 +123,7 @@ The program uses metadata to drive runtime behavior instead of compile-time wiri
 
 ---
 
-## ⭐ Why These Matter for Senior Engineers
+## ⭐ Why These Matter?
 
 * Flexibility for evolving business needs
 * Runtime configuration and discovery
@@ -269,7 +269,7 @@ Hệ thống dùng metadata để điều khiển runtime.
 
 ---
 
-## ⭐ Vì sao quan trọng với Senior Engineer?
+## ⭐ Vì sao quan trọng?
 
 * Linh hoạt
 * Mở rộng tốt
